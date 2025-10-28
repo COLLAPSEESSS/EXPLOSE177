@@ -1,0 +1,17 @@
+{
+  "version": "1.0.1",
+  "launcher": {
+    "version": "1.0.1",
+    "url": "https://github.com/COLLAPSEESSS/EXPLOSE177/raw/refs/heads/main/CalypsoLauncher.exe"
+  },
+  "files": [
+    {
+      "url": "https://github.com/COLLAPSEESSS/EXPLOSE177/raw/refs/heads/main/Managed/Assembly-CSharp.dll",
+      "path": "./ExploseRust_Data/Managed/Assembly-CSharp.dll"
+    },
+    {
+      "url": "https://github.com/COLLAPSEESSS/EXPLOSE177/raw/refs/heads/main/Managed/Unity.RustMod.Core.dll",
+      "path": "./ExploseRust_Data/Managed/Unity.RustMod.Core.dll"
+    }
+  ]
+}
